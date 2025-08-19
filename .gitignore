@@ -1,0 +1,22 @@
+# Ignore the folder containing installed libraries
+.venv/
+venv/
+
+# Ignore the folder where Python stores compiled files
+__pycache__/
+
+# This ignores the input file with private URLs
+Input.xlsx
+
+# Ignore any log files that might be created
+*.log
+
+# Ignore the folder where extracted articles are saved
+extracted_articles/
+Extracted_Data/
+
+# Ignore the final Excel report
+Output Data Structure.xlsx
+
+# Ignore PyCharm project settings
+.idea/
