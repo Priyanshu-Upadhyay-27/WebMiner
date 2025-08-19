@@ -72,15 +72,15 @@ A Python-based project that combines **web scraping** and **text analysis** into
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/text-analysis-web-scraping.git
-   cd text-analysis-web-scraping
+   git clone https://github.com/Priyanshu-Upadhyay-27/WebMiner.git
+   cd DS_TA
    ```
 
 2. **Create virtual environment (recommended)**
 
    ```bash
    python -m venv .venv
-   source .venv/bin/activate   # On Windows: .venv\Scripts\activate
+   source .venv/bin/activate   
    ```
 
 3. **Install dependencies**
